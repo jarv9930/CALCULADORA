@@ -1,6 +1,8 @@
 #calculadora en python 
 import math 
 
+def suma(a,b):
+    return a + b
 def calculadora():
     while True:
         print("\n--- Calculadora ---")
@@ -41,3 +43,4 @@ def calculadora():
                 
         else:
             print("Opción no válida. Intente de nuevo.")
+calculadora()
