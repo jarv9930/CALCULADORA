@@ -3,6 +3,9 @@ import math
 
 def suma(a,b):
     return a + b
+def resta (a,b):
+    return a-b
+
 def calculadora():
     while True:
         print("\n--- Calculadora ---")
@@ -28,6 +31,7 @@ def calculadora():
                 print("Resultado:", suma(a, b))
             elif opcion == '2':
                 print("Resultado:", resta(a, b))
+
             elif opcion == '3':
                 print("Resultado:", multiplicacion(a, b))
             elif opcion == '4':
