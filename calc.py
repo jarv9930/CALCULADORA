@@ -6,6 +6,8 @@ def suma(a,b):
     return a+b
 
 =======
+def multiplicacion(a,b):
+    return a*b
 >>>>>>> da63d243fccf3c0fec359a4bd6cb14a237a2aa24
 def calculadora():
     while True:
