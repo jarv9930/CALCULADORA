@@ -10,6 +10,9 @@ def al_cuadrado(a):
 def resta (a,b):
     return a-b
 
+def multiplicacion(a,b):
+    return a*b
+
 def calculadora():
     while True:
         print("\n--- Calculadora ---")
