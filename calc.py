@@ -3,6 +3,10 @@ import math
 
 def suma(a,b):
     return a + b
+
+def al_cuadrado(a):
+    return a ** 2
+
 def calculadora():
     while True:
         print("\n--- Calculadora ---")
