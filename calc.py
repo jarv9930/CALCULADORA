@@ -2,8 +2,11 @@
 import math 
 
 def suma(a,b):
+<<<<<<< HEAD
     return a+b
 
+=======
+>>>>>>> da63d243fccf3c0fec359a4bd6cb14a237a2aa24
 def calculadora():
     while True:
         print("\n--- Calculadora ---")
@@ -44,3 +47,4 @@ def calculadora():
                 
         else:
             print("Opción no válida. Intente de nuevo.")
+calculadora()
