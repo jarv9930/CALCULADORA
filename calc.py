@@ -7,6 +7,8 @@ def suma(a,b):
 def al_cuadrado(a):
     return a ** 2
 
+    return a+b
+
 def calculadora():
     while True:
         print("\n--- Calculadora ---")
