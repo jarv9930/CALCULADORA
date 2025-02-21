@@ -13,6 +13,9 @@ def resta (a,b):
 def multiplicacion(a,b):
     return a*b
 
+def division(a, b):
+    return a/b
+
 def calculadora():
     while True:
         print("\n--- Calculadora ---")
